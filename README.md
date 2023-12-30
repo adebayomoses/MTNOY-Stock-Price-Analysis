@@ -1,6 +1,6 @@
 # MTNOY STOCK PRICE ANALYSIS
 
-## AIMS
+## AIM:
 
 * Compare the stock price performance with its competitors.
   
