@@ -6,8 +6,6 @@ MTN Group is a South African multinational corporation and mobile telecommunicat
 
 ## AIM OF THE PROJECT:
 
-# AIM:
-
     Explore the stock price performance of MTNOY.
 
     Build a model to predict stock volatility for the telecommunications company MTN Group.
