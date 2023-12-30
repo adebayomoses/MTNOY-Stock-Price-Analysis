@@ -1,8 +1,13 @@
 # MTNOY STOCK PRICE ANALYSIS
 
-## AIM:
+# ABOUT THE COMPANY:
 
-* Compare the stock price performance with its competitors.
-  
+MTN Group is a South African multinational corporation and mobile telecommunications provider. It operates in 21 countries across Africa and the Middle East, serving 292 million subscribers as of December 20221. MTN Group offers various services such as fintech solutions, digital services, enterprise services, network as a service, and API marketplace. MTN Group is committed to sustainability, eco-responsibility, and social impact through its various initiatives and partnerships.
 
-* Building a model to predict stock volatility for the telecommunications company MTN Group.
+## AIM OF THE PROJECT:
+
+# AIM:
+
+    Explore the stock price performance of MTNOY.
+
+    Build a model to predict stock volatility for the telecommunications company MTN Group.
